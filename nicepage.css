@@ -42646,10 +42646,9 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-list-1 {
+    width: 483px;
     margin-top: -33px;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
+    margin-left: auto;
   }
 
   .u-header .u-repeater-1 {
@@ -42664,7 +42663,6 @@ a.u-link.u-text-hover-grey-90:hover {
     width: 64px;
     height: 64px;
     margin-top: 0;
-    margin-right: 54px;
   }
 
   .u-header .u-container-layout-2 {
@@ -42675,7 +42673,6 @@ a.u-link.u-text-hover-grey-90:hover {
     width: 64px;
     height: 64px;
     margin-top: 0;
-    margin-right: 54px;
   }
 
   .u-header .u-container-layout-3 {
@@ -42686,7 +42683,6 @@ a.u-link.u-text-hover-grey-90:hover {
     width: 64px;
     height: 64px;
     margin-top: 0;
-    margin-right: 54px;
   }
 
   .u-header .u-container-layout-4 {
@@ -42697,12 +42693,11 @@ a.u-link.u-text-hover-grey-90:hover {
     width: 64px;
     height: 64px;
     margin-top: 0;
-    margin-right: 54px;
   }
 }
 @media (max-width: 767px) {
   .u-header .u-sheet-1 {
-    min-height: 206px;
+    min-height: 207px;
   }
 
   .u-header .u-text-1 {
@@ -42710,11 +42705,9 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-list-1 {
+    width: 351px;
     margin-top: -28px;
     margin-bottom: 1px;
-    width: auto;
-    margin-right: initial;
-    margin-left: initial;
   }
 
   .u-header .u-repeater-1 {
@@ -42732,30 +42725,52 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-list-1 {
+    width: 248px;
     margin-bottom: 60px;
-    width: auto;
-    margin-right: initial;
-    margin-left: initial;
   }
 
   .u-header .u-repeater-1 {
-    min-height: 91px;
+    min-height: 74px;
+  }
+
+  .u-header .u-container-layout-1 {
+    padding-bottom: 10px;
   }
 
   .u-header .u-icon-1 {
-    margin-right: 0;
+    width: 51px;
+    height: 51px;
+    margin-top: 4px;
+  }
+
+  .u-header .u-container-layout-2 {
+    padding-bottom: 10px;
   }
 
   .u-header .u-icon-2 {
-    margin-right: 0;
+    width: 51px;
+    height: 51px;
+    margin-top: 4px;
+  }
+
+  .u-header .u-container-layout-3 {
+    padding-bottom: 10px;
   }
 
   .u-header .u-icon-3 {
-    margin-right: 0;
+    width: 51px;
+    height: 51px;
+    margin-top: 4px;
+  }
+
+  .u-header .u-container-layout-4 {
+    padding-bottom: 10px;
   }
 
   .u-header .u-icon-4 {
-    margin-right: 0;
+    width: 51px;
+    height: 51px;
+    margin-top: 4px;
   }
 }
  .u-footer {
