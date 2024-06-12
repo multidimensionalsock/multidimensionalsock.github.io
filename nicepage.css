@@ -43619,7 +43619,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-repeater-1 {
     min-height: 103px;
-    grid-auto-columns: calc(25% - 7.5px);
   }
 }
 @media (max-width: 767px) {
